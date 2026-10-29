@@ -1,0 +1,15 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+E:\UTU\Amtics\Sem-4\.Net\project\StudentManagementSystem\DAL\MarksDAL.cs(64,48): error CS1061: 'DataRow' does not contain a definition for 'Field' and no accessible extension method 'Field' accepting a first argument of type 'DataRow' could be found (are you missing a using directive or an assembly reference?) [E:\UTU\Amtics\Sem-4\.Net\project\StudentManagementSystem\StudentManagementSystem.csproj]
+E:\UTU\Amtics\Sem-4\.Net\project\StudentManagementSystem\DAL\MarksDAL.cs(65,45): error CS1061: 'DataRow' does not contain a definition for 'Field' and no accessible extension method 'Field' accepting a first argument of type 'DataRow' could be found (are you missing a using directive or an assembly reference?) [E:\UTU\Amtics\Sem-4\.Net\project\StudentManagementSystem\StudentManagementSystem.csproj]
+
+Build FAILED.
+
+E:\UTU\Amtics\Sem-4\.Net\project\StudentManagementSystem\DAL\MarksDAL.cs(64,48): error CS1061: 'DataRow' does not contain a definition for 'Field' and no accessible extension method 'Field' accepting a first argument of type 'DataRow' could be found (are you missing a using directive or an assembly reference?) [E:\UTU\Amtics\Sem-4\.Net\project\StudentManagementSystem\StudentManagementSystem.csproj]
+E:\UTU\Amtics\Sem-4\.Net\project\StudentManagementSystem\DAL\MarksDAL.cs(65,45): error CS1061: 'DataRow' does not contain a definition for 'Field' and no accessible extension method 'Field' accepting a first argument of type 'DataRow' could be found (are you missing a using directive or an assembly reference?) [E:\UTU\Amtics\Sem-4\.Net\project\StudentManagementSystem\StudentManagementSystem.csproj]
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:01.01
+
+Workload updates are available. Run `dotnet workload list` for more information.
